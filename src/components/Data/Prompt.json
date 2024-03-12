@@ -1,0 +1,32 @@
+[
+    {
+      "courseheading": "Create code for a  simple to-do list application",
+      "desc": "The code generator will create the necessary HTML, CSS, and JavaScript and python files to implement a basic to-do list web application. ",
+      "follow": true,
+      "image": "prompt1"
+    },
+    {
+      "courseheading": "Code Translation",
+      "desc": "Code translation facilitates the conversion of code written in one programming language into another, preserving functionality and structure.",
+      "follow": true,
+      "image": "prompt2"
+    },
+    {
+      "courseheading": "Test Case Generation",
+      "desc": "Test case generation involves creating input data and conditions to assess the functionality and behavior of software applications, ensuring comprehensive coverage of various scenarios and potential edge cases.",
+      "follow": true,
+      "image": "prompt3"
+    },
+    {
+      "courseheading": "Code Optimization",
+      "desc": "Code optimization aims to improve the efficiency, speed, and resource utilization of software programs by refining algorithms, reducing redundant operations, and minimizing memory usage",
+      "follow": true,
+      "image": "prompt3"
+    },
+    {
+      "courseheading": "Comment Generation",
+      "desc": "Test case generation involves creating input data and conditions to assess the functionality and behavior of software applications, ensuring comprehensive coverage of various scenarios and potential edge cases.",
+      "follow": true,
+      "image": "prompt3"
+    }
+  ]
